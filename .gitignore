@@ -13,3 +13,8 @@ wheels/
 .env
 .env.*
 !.env.example
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
